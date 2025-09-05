@@ -71,18 +71,22 @@ Here’s what happens when you ask a question:
 - **Retrieval and Top-3 Reranked Results**  
   _Top Q&A pairs retrieved and semantically reranked based on user query._
 
-  <img src="assets/retrieving.png" width="600"/>
+<img width="1378" height="752" alt="image" src="https://github.com/user-attachments/assets/d2744ee9-aa27-4c83-bed7-003f41797af7" />
+
+
 
 - **Pipeline Overview**  
   _Internal flow showing retrieval, reranking, prompt building, and LLM answer generation._
 
-  <img src="assets/final_pipeline.png" width="600"/>
+
+
 
 ---
 
 ## 🛤️ Internal Architecture (Code Flow)
 -
-    <img src="assets/architecture.png" width="600"/>
+<img width="501" height="1170" alt="image" src="https://github.com/user-attachments/assets/c41ff5db-3fc7-4d80-a60d-4708da8e0cba" />
+
 
 
 ---
@@ -103,14 +107,5 @@ Each module has a clean, defined role:
 
 ---
 
-## 📬 Contact Me
 
-If you found this project useful, inspiring, or have any questions — feel free to connect!
-
-- 🧑‍💼 **Raviteja Kunapareddy**
-- 📧 Email: [ravitejakunapareddy09@gmail.com](mailto:ravitejakunapareddy09@gmail.com)
-- 🌐 LinkedIn: [linkedin.com/in/ravi-kunapareddy](https://www.linkedin.com/in/ravi-kunapareddy/)
-- 💼 Portfolio: [github.com/RaviKunapareddy/RaviKunapareddy](https://github.com/RaviKunapareddy/RaviKunapareddy)
-
-*Let’s build smarter systems together — one intelligent agent at a time.* 🚀
 
